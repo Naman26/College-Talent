@@ -1,5 +1,5 @@
 # College-Talent
-Author: Naman Kanwar, Harnoor Singh, Jonathan Ding, An Tran
+Authors: Naman Kanwar, Harnoor Singh, Jonathan Ding, An Tran
 # Inspiration
 I am international student paying out of state. I have seen students like me in need of money who can sell their talent for it.
 
